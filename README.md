@@ -2,6 +2,8 @@
 
 This project report is to explore the population of pupils and teachers by state and each district education office and composition of pupils and teachers by several target variable.
 
+**I created an interactive and animated dashboard for this project. Please utilise the available buttons and sliders to animate the graph.**
+
 ## Motivation 
 
 ![Image](https://github.com/soonkienyuan/PUPILS-AND-TEACHERS-POPULATION-DEMOGRAPHIC/blob/main/image/news.jpg?raw=true)
