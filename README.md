@@ -16,7 +16,7 @@ This dataset has two sheets: student and teacher data. Both sheets have the same
 
 Because the dataset is made up of two sheets, a new dataset will be created by joining the two sheets in tableau.
 
-description of each variable's dataset as detailed below
+Description of each variable's dataset as detailed below.
 
 
 | **Data Variable**         | **Data Type**                                                | **Components**                                           |
@@ -30,3 +30,22 @@ description of each variable's dataset as detailed below
 | Number of pupils          | Quantitative data type                                       | Number (discrete)                                        |
 | Number of teachers        |        Quantitative data type                                                        |  Number (discrete)                                                        |
 
+
+## ANALYZATION OF EACH DASHBOARD
+
+Please refer to the report. [click here](https://github.com/soonkienyuan/PUPILS-AND-TEACHERS-POPULATION-DEMOGRAPHIC/blob/main/Report/Project%20report_%20SD20040.pdf)
+
+
+
+## CONCLUDING REMARKS
+
+### Revisiiting the Objective
+
+Created to brings the actual and right information to the public through user-friendly interactive visualization dashboard.
+
+### Conclusion
+
+- Government should increase teacher supply for the future and ensure there is no oversupply for each district education office. 
+- Dashboard 6 showed fewer men in primary and secondary school teaching in 2017-2018. 
+- Government and society should promote more male teachers. 
+- Teacher-student ratio should also be used to manage teacher distribution in Malaysian schools.
